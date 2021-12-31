@@ -1,0 +1,8 @@
+
+public class SitemInterno {
+	
+	
+	public void autentica(Gerente g) {
+
+	}
+}

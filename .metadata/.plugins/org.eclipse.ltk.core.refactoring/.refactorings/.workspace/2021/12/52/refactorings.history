@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;bytebank-composto&apos; to &apos;04-bytebank-composto&apos;" description="Rename resource &apos;bytebank-composto&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/bytebank-composto" name="04-bytebank-composto" stamp="1640293072535" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;bytebank-encapsulado&apos; to &apos;05-bytebank-encapsulado&apos;" description="Rename resource &apos;bytebank-encapsulado&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/bytebank-encapsulado" name="05-bytebank-encapsulado" stamp="1640293083969" updateReferences="true"/>
+</session>

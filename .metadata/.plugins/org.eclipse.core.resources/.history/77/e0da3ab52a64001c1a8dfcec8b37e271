@@ -1,0 +1,14 @@
+
+public class TestaValores {
+
+	public static void main(String[] args) {
+		
+		int total = 0;
+		Conta conta = new Conta(4667,24226);
+		total++;
+		
+		
+		
+	}
+
+}

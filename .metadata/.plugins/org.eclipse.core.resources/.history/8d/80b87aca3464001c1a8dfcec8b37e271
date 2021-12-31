@@ -1,0 +1,18 @@
+
+public class TesteFuncionario {
+
+	public static void main(String[] args) {
+
+		
+		Funcionario wyslan = new Funcionario();
+		
+		wyslan.setNome("wysaln");
+		wyslan.setCpf("115.198.484-12");
+		wyslan.setSalario(1200);
+		
+		System.out.println(wyslan.getBonificacao());
+		
+		
+	}
+
+}

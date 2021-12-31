@@ -1,0 +1,15 @@
+
+public class TestaValores {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Conta conta = new Conta();
+		
+		
+		//conta está inconsistente
+		conta.setAgencia(-50);
+		conta.setNumero(-30);
+	}
+
+}

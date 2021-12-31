@@ -1,0 +1,12 @@
+//Gerente é um funcionario, Gerente herda do class Funcionario, assina o contraro Autenticavel
+public class Gerente  extends Funcionario implements Autenticavel{
+
+	
+	public double getBonificacao() {
+		System.out.println("Chama o método de bonificacao do GERENTE+.+.+.+.+.+.+.+.+.+.+.+.");
+		return super.getSalario();
+	}
+	
+	
+	
+}

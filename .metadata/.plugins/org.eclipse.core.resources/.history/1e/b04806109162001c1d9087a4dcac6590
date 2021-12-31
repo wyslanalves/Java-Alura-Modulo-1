@@ -1,0 +1,17 @@
+
+public class Conta {
+
+	//atributos
+	 double saldo;
+	 int agencia;
+	 int numero;
+	 String titular; // atribui null
+	 
+	 public  void deposita(double valor) {
+		 this.saldo += valor;
+	}
+	 
+	 public boolean saca(double valor){
+		 this.saldo -= valor;
+	 }
+}
